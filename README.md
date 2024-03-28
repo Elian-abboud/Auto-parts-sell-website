@@ -9,4 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![plants website](/preview.png)
+![Auto-parts-sell-website](/1.png)
