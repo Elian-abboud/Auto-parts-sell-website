@@ -1,7 +1,6 @@
 
 # Responsive Auto-parts-sell-website
 
-
 - Responsive  Website Using HTML, CSS and JavaScript.
 - Contains animations when scrolling.
 - Includes a dark and light mode.
@@ -10,3 +9,8 @@
 
 
 ![Auto-parts-sell-website](/1.png)
+![Auto-parts-sell-website](/2.png)
+![Auto-parts-sell-website](/3.png)
+![Auto-parts-sell-website](/4.png)
+![Auto-parts-sell-website](/5.png)
+![Auto-parts-sell-website](/6.png)
